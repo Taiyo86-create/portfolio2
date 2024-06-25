@@ -169,6 +169,18 @@ header {
     background-color: #FF9900;
   }
 
+  .color-g{
+    background-color: #5500ff;
+  }
+
+  .color-h{
+    background-color: #aa00ff;
+  }
+
+  .color-i{
+    background-color: #5500ff;
+  }
+
   .skills-box-heading {
     display: flex;
     align-items: center;
